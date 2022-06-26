@@ -4,7 +4,7 @@
   <view class='wrapper'>
     <view class="tab-content {{postBook ? 'select' : 'noSelect'}} " bindtap='choosePostBook'>书本发布</view>
     <view class="tab-content {{postThing ? 'select' : 'noSelect'}}" bindtap='choosePostThing'>物品发布</view>
-    <view class="tab-content {{postJob ? 'select' : 'noSelect'}}" bindtap='choosePostJob'>兼职发布</view>
+    <!-- <view class="tab-content {{postJob ? 'select' : 'noSelect'}}" bindtap='choosePostJob'>兼职发布</view> -->
   </view>
 </view>
 
